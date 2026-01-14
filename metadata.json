@@ -1,0 +1,7 @@
+{
+  "name": "QN-DN RideShare Pro",
+  "description": "Hệ thống quản lý và điều phối xe khách tuyến Quảng Nam - Đà Nẵng, hỗ trợ tài xế tối ưu hóa lộ trình và trao đổi khách hàng.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
